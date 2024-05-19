@@ -1,0 +1,14 @@
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\bin\Debug\net8.0\InheritanceExample.exe
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\bin\Debug\net8.0\InheritanceExample.deps.json
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\bin\Debug\net8.0\InheritanceExample.runtimeconfig.json
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\bin\Debug\net8.0\InheritanceExample.dll
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\bin\Debug\net8.0\InheritanceExample.pdb
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfoInputs.cache
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.AssemblyInfo.cs
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.csproj.CoreCompileInputs.cache
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.dll
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\refint\InheritanceExample.dll
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.pdb
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\InheritanceExample.genruntimeconfig.cache
+d:\drey\3rd year\Activity#1_INHERITANCE\InheritanceExample\obj\Debug\net8.0\ref\InheritanceExample.dll
